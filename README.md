@@ -3,7 +3,7 @@
 
 # Обо мне
 ---------------
-<image src="/images/picture1.jpg" alt="Фотография" width="200" height="220">
+![Фотография](https://www.belta.by/images/storage/news/with_archive/2022/000029_1649230830_494494_big.jpg)
 
 ***Ирина Ракова*** 
 *23 года, г. Москва*
